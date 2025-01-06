@@ -1,0 +1,5 @@
+C:\Users\Süleyman AKBULUT\source\repos\SCADANEO\SCADANEO\obj\Debug\SCADANEO.csproj.AssemblyReference.cache
+C:\Users\Süleyman AKBULUT\source\repos\SCADANEO\SCADANEO\obj\Debug\SCADANEO.Form1.resources
+C:\Users\Süleyman AKBULUT\source\repos\SCADANEO\SCADANEO\obj\Debug\SCADANEO.Properties.Resources.resources
+C:\Users\Süleyman AKBULUT\source\repos\SCADANEO\SCADANEO\obj\Debug\SCADANEO.csproj.GenerateResource.cache
+C:\Users\Süleyman AKBULUT\source\repos\SCADANEO\SCADANEO\obj\Debug\SCADANEO.csproj.CoreCompileInputs.cache
